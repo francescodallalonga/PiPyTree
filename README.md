@@ -1,3 +1,3 @@
 # PiPyTree
-A Python class to plot Pythagoras trees
+A Python class built on matplotlib to draw Pythagoras trees.
 ![example](/img/tree_example.png)
